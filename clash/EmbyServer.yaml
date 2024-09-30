@@ -15,7 +15,8 @@ payload:
   - DOMAIN,shenmi.link # JMS
   - DOMAIN,789.123456.al # TreeDiagram
   - DOMAIN,emby-mica-us-v1.mius.uk # 牢大
-  - DOMAIN,sadsafsfsafsadas.mius.uk # 牢大 sg线路
+  - DOMAIN,sadsafsfsafsadas.mius.uk # 牢大 SG线路
+  - DOMAIN,emby-mica-hk-v4.mius.uk # 牢大 HK线路
   - DOMAIN,hka-emby.aliz.work # hkr
   - DOMAIN,emby.9191001.xyz # 放映厅
   - DOMAIN,tv.811861.xyz # AWA
