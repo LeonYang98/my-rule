@@ -23,3 +23,6 @@ payload:
   - DOMAIN,tv.811861.xyz # AWA
   - DOMAIN,emby.awatv.de # AWA New
   - DOMAIN,music1.awatv.de # AWA Music
+  - DOMAIN,z.sfcj.org # 非越 IPV4
+  - DOMAIN,v6.sfcj.org # 非越 IPV6
+  - DOMAIN,cf.sfcj.org # 非越 CF线路
