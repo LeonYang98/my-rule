@@ -26,3 +26,4 @@ payload:
   - DOMAIN,z.sfcj.org # 非越 IPV4
   - DOMAIN,v6.sfcj.org # 非越 IPV6
   - DOMAIN,cf.sfcj.org # 非越 CF线路
+  - DOMAIN,eggtartemby.itsmyduty.top # 墨白
