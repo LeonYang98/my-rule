@@ -168,17 +168,17 @@ rule-providers:
   ChinaDownloadCDN:
     <<: *RuleProviders
     path: './rules/ChinaDownloadCDN.yaml'
-    url: 'https://raw.githubusercontent.com/LeonYang98/my-rule/refs/heads/main/clash/ChinaDownloadCDN'
+    url: 'https://raw.githubusercontent.com/LeonYang98/my-rule/refs/heads/main/clash/ChinaDownloadCDN.yaml'
 
   InternationalDownloadCDN:
     <<: *RuleProviders
     path: './rules/InternationalDownloadCDN.yaml'
-    url: 'https://raw.githubusercontent.com/LeonYang98/my-rule/refs/heads/main/clash/InternationalDownloadCDN'
+    url: 'https://raw.githubusercontent.com/LeonYang98/my-rule/refs/heads/main/clash/InternationalDownloadCDN.yaml'
 
   AI:
     <<: *RuleProviders
     path: './rules/AI.yaml'
-    url: 'https://raw.githubusercontent.com/LeonYang98/my-rule/refs/heads/main/clash/AI'
+    url: 'https://raw.githubusercontent.com/LeonYang98/my-rule/refs/heads/main/clash/AI.yaml'
   
   Game:
     <<: *RuleProviders
